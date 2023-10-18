@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "Technical articals ",
+  "main": "index.js",
+  "authors": {
+    "name": "Maximus",
+    "email": "ageev.maks2014+blog@gmail.com"
+  },
+  "repository": "https://github.com/Legion112/blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
